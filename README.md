@@ -1,4 +1,7 @@
-# Sad_Boy_Bot (with colours)
+Not sure if this works yet, both Python files still give me.. 
+[WinError 5] Access is denied, will fix this and make sure of it
+
+# Sad_Boy_Bot (with colours and triming)
 The bot that edits videos into sad lofi simpsonwave edits!
 
 # How to use
@@ -12,4 +15,3 @@ The bot that edits videos into sad lofi simpsonwave edits!
 # Dependencies
 - Moviepy v1.0.0 (other versions may give errors)
 - ImageMagick v7.0.9
-
