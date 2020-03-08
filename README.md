@@ -8,7 +8,7 @@ The bot that edits videos into sad lofi simpsonwave edits!
 1) Put a video file and an audio file in the same directiory as the script.
 2) Run script.py using Python3.
 3) Enter the filenames of the video file and audio file.
-4) Enter how long you want to edit to be (in seconds) and the colours you would like to use.
+4) Enter how long you want to edit to be (in seconds), the trim length for each subclip, and the colours you would like to use.
 5) Wait! It may take a while to finish.
 6) An output file named "output_file.mp4" will be created.
 
